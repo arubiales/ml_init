@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ml_init"
-version = "0.5.1"
+version = "0.5.2"
 description = "Install the main ML libraries"
 authors = ["Alberto Rubiales <al.rubiales.b@gmail.com>"]
 readme = "README.md"
