@@ -9,4 +9,4 @@ Modified By: Alberto Rubiales Borrego
 -----
 '''
 
-__version__ = '0.5.0'
+__version__ = '0.5.1'
